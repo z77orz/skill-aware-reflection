@@ -4,7 +4,7 @@
 
 A Claude Code / Claude.ai skill that operationalizes the four-type skill-aware reflection framework from [EmbodiSkill (Ju et al., 2026)](https://arxiv.org/abs/2605.10332v1).
 
-After a non-trivial task finishes, this skill forces the agent to classify what happened into one of four types and produce a targeted, non-destructive revision of the underlying skill — never a coarse whole-skill rewrite.
+After a **procedural task** finishes — one that applied a named skill, method, or multi-step procedure whose outcome depends on intermediate steps — this skill forces the agent to classify what happened into one of four types and produce a targeted, non-destructive revision of the underlying skill. Never a coarse whole-skill rewrite.
 
 ## The Four Reflection Types
 
@@ -25,11 +25,11 @@ Existing skill self-evolution methods are *skill-unaware*: they convert trajecto
 
 Use when **all** of the following hold:
 
-- A non-trivial task has just finished (not a one-step lookup).
+- A **procedural task** has just finished — one that required applying a named skill, method, or multi-step procedure whose outcome depends on intermediate steps. The defining test: did the agent follow a procedure with ≥2 ordered steps where the result depended on intermediate state?
 - The task used at least one skill, sub-skill, or named procedure.
 - The task outcome is evaluable: success, partial success, or failure.
 
-Do NOT use for one-off tool calls with no procedural skill involved.
+Do NOT use for single tool calls, single information lookups, or single-step recall with no procedural skill involved.
 
 ## Installation
 

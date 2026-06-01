@@ -1,13 +1,13 @@
 ---
 name: skill-aware-reflection
-description: Use when a non-trivial task has finished and the agent needs to decide whether the skill or procedure it used is fine, inefficient, defective, or merely not followed — produces a typed reflection record (Discovery, Optimization, SkillDefect, ExecutionLapse) that drives targeted, non-destructive skill revision.
+description: Use when a procedural task has just finished — one that required applying a named skill, method, or multi-step procedure whose outcome depends on intermediate steps and is evaluable — and the agent needs to decide whether the procedure it used is fine, inefficient, defective, or merely not followed. Produces a typed reflection record (Discovery, Optimization, SkillDefect, ExecutionLapse) that drives targeted, non-destructive skill revision.
 ---
 
 # Skill-Aware Reflection
 
 ## Overview
 
-After a non-trivial task, do **not** rewrite the whole skill. Instead, classify what actually happened into one of four reflection types, target a specific `b_i` (skill paragraph), and choose a discrete directive. This is "skill-aware" because every reflection is anchored to the **current** skill text — never to the whole skill at once.
+After a procedural task (one that applied a named skill, method, or multi-step procedure), do **not** rewrite the whole skill. Instead, classify what actually happened into one of four reflection types, target a specific `b_i` (skill paragraph), and choose a discrete directive. This is "skill-aware" because every reflection is anchored to the **current** skill text — never to the whole skill at once.
 
 The four types come from EmbodiSkill (Ju et al., 2026). They partition the space cleanly:
 
@@ -22,13 +22,13 @@ The skill structure follows EmbodiSkill's `S = (S_body, S_app)`: the body is rew
 
 Use when **all** of the following hold:
 
-- A non-trivial task has just finished (not a one-step lookup).
+- A **procedural task** has just finished — one that required applying a named skill, method, or multi-step procedure (not a single-step lookup or single tool call). The defining test: did the agent follow a procedure with ≥2 ordered steps whose outcome depends on intermediate state?
 - The task used at least one skill, sub-skill, or named procedure.
 - The task outcome is evaluable: success, partial success, or failure.
 
 Do NOT use when:
 
-- The task was a single tool call with no procedural skill involved.
+- The task was a single tool call, a single information lookup, or a single-step recall with no procedural skill involved.
 - The user is asking for unrelated content (the skill should not interrupt).
 - You have no trajectory evidence (no record of what was actually done).
 

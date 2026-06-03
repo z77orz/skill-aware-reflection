@@ -11,15 +11,7 @@
      ============================================================ -->
 <div align="center">
 
-<!-- 字体预连接: GitHub 在沙箱里无法下载 woff 文件,
-     但 <link> 标签可以引导用户浏览器解析 head 注入,
-     这里改成在 README 顶部用注释给出,避免渲染警告 -->
-
-# ✦ <img src="https://img.shields.io/badge/丰容-Skill%20Enrichment-A87C2C?style=for-the-badge&logoColor=A87C2C" alt="丰容" height="42"/> ✦
-
-### *A Field Guide to Procedural-Skill Maturation in Claude Code*
-
-*formerly **Skill-Aware Reflection** — an EmbodiSkill port (Ju et al., 2026, arXiv:2605.10332)*
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MjAiIGhlaWdodD0iMTEwIiB2aWV3Qm94PSIwIDAgNzIwIDExMCI+CiAgPHRleHQgeD0iMzYwLjAiIHk9Ijg1LjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSInTm90byBTZXJpZiBTQycsJ0ZyYXVuY2VzJywnU291cmNlIEhhbiBTZXJpZiBTQycsJ1RpbWVzIE5ldyBSb21hbicsc2VyaWYiIGZvbnQtc2l6ZT0iNjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNBODdDMkMiIHN0cm9rZT0iIzFGMUIxNiIgc3Ryb2tlLXdpZHRoPSIwLjYiIGxldHRlci1zcGFjaW5nPSIyIj7il4Yg5Liw5a65IChTa2lsbCBFbnJpY2htZW50KSDil4Y8L3RleHQ+Cjwvc3ZnPg==" alt="丰容 Skill Enrichment" height="64"/>
 
 <br/>
 
@@ -38,20 +30,20 @@
 <tr>
 <td align="center" width="33%">
 
-<font color="#3F5D3A"><b>⟁ Subject</b></font>  
-<font color="#1F1B16"><i>Procedural Skill</i></font>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMTAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMTAgMzIiPgogIDx0ZXh0IHg9IjEwNS4wIiB5PSIyNC45NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidOb3RvIFNlcmlmIFNDJywnRnJhdW5jZXMnLHNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0Y1RDNBIj7in4EgIFN1YmplY3QgU3ViamVjdCAg4p+BPC90ZXh0Pgo8L3N2Zz4=" alt="Subject" height="32"/><br/>
+<i>Procedural Skill</i>
 
 </td>
 <td align="center" width="33%">
 
-<font color="#3F5D3A"><b>⟐ Nourishment</b></font>  
-<font color="#1F1B16"><i>Task Trajectory</i></font>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMjIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMjIgMzIiPgogIDx0ZXh0IHg9IjE2MS4wIiB5PSIyNC45NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidOb3RvIFNlcmlmIFNDJywnRnJhdW5jZXMnLHNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0Y1RDNBIj7in4EgIE5vdXJpc2htZW50IE5vdXJpc2htZW50ICDin4E8L3RleHQ+Cjwvc3ZnPg==" alt="Nourishment" height="32"/><br/>
+<i>Task Trajectory</i>
 
 </td>
 <td align="center" width="33%">
 
-<font color="#3F5D3A"><b>⟁ Outcome</b></font>  
-<font color="#1F1B16"><i>Maturation · 0 → 1</i></font>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMTAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMTAgMzIiPgogIDx0ZXh0IHg9IjEwNS4wIiB5PSIyNC45NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidOb3RvIFNlcmlmIFNDJywnRnJhdW5jZXMnLHNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0Y1RDNBIj7in4EgIE91dGNvbWUgT3V0Y29tZSAg4p+BPC90ZXh0Pgo8L3N2Zz4=" alt="Outcome" height="32"/><br/>
+<i>Maturation · 0 → 1</i>
 
 </td>
 </tr>
@@ -64,57 +56,30 @@
 <!-- ============================================================
      SECTION 1 · 学名卡 / 物种介绍
      ============================================================ -->
-## <img src="https://img.shields.io/badge/⟐-Specimen%20Card-3F5D3A?style=for-the-badge&logoColor=3F5D3A" alt="Specimen Card" height="28"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgU3BlY2ltZW4gQ2FyZDwvdGV4dD4KPC9zdmc+" alt="Specimen Card" height="40"/>
 
 <table>
-<tr>
-<th align="left" width="22%">Field</th>
-<th align="left">Value</th>
-</tr>
-<tr>
-<td><b>Common name</b></td>
-<td><b>丰容 / Skill Enrichment</b></td>
-</tr>
-<tr>
-<td><b>Former name</b></td>
-<td><i>Skill-Aware Reflection</i> (skill-aware-reflection)</td>
-</tr>
-<tr>
-<td><b>Family</b></td>
-<td>EmbodiSkill — <i>Self-Evolving Embodied Agents</i></td>
-</tr>
-<tr>
-<td><b>Type locality</b></td>
-<td>Ju et al., 2026 · arXiv:2605.10332v1 · <a href="https://arxiv.org/abs/2605.10332v1">link</a></td>
-</tr>
-<tr>
-<td><b>Habitat</b></td>
-<td><code>~/.claude/skills/Skill-Enrichment/</code></td>
-</tr>
-<tr>
-<td><b>Diet</b></td>
-<td>Real task trajectories (the <b>core nourishment</b>)</td>
-</tr>
-<tr>
-<td><b>Keeper</b></td>
-<td>The agent itself, under the four-type reflection framework</td>
-</tr>
-<tr>
-<td><b>Conservation status</b></td>
-<td>
+<tr><th align="left" width="22%">Field</th><th align="left">Value</th></tr>
+<tr><td><b>Common name</b></td><td><b>丰容 / Skill Enrichment</b></td></tr>
+<tr><td><b>Former name</b></td><td><i>Skill-Aware Reflection</i> (skill-aware-reflection)</td></tr>
+<tr><td><b>Family</b></td><td>EmbodiSkill — <i>Self-Evolving Embodied Agents</i></td></tr>
+<tr><td><b>Type locality</b></td><td>Ju et al., 2026 · arXiv:2605.10332v1 · <a href="https://arxiv.org/abs/2605.10332v1">link</a></td></tr>
+<tr><td><b>Habitat</b></td><td><code>~/.claude/skills/Skill-Enrichment/</code></td></tr>
+<tr><td><b>Diet</b></td><td>Real task trajectories (the <b>core nourishment</b>)</td></tr>
+<tr><td><b>Keeper</b></td><td>The agent itself, under the four-type reflection framework</td></tr>
+<tr><td><b>Conservation status</b></td><td>
 
 `MIT` — open source · `arXiv preprint` — academic citation required
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 ---
 
 <!-- ============================================================
-     SECTION 2 · 命名志 / Etymology
+     SECTION 2 · 命名志
      ============================================================ -->
-## <img src="https://img.shields.io/badge/✦-On%20the%20Name-3F5D3A?style=for-the-badge&logoColor=3F5D3A" alt="On the Name" height="28"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKcpiAgT24gdGhlIE5hbWU8L3RleHQ+Cjwvc3ZnPg==" alt="On the Name" height="40"/>
 
 > *In the animal-welfare sciences, **environmental enrichment** is the practice of providing captive animals with diverse, biologically meaningful stimuli — to satisfy their physiological and psychological needs, promote natural behavior, and reduce stereotypy.*
 >
@@ -130,7 +95,7 @@
 
 The metaphor is not decoration — it is the project's organizing principle:
 
-> <font color="#3F5D3A">**No trajectory, no enrichment.**</font> A skill that never sees a real run is a skill that never matures.
+> <b>No trajectory, no enrichment.</b> A skill that never sees a real run is a skill that never matures.
 
 ### What is in a name?
 
@@ -143,32 +108,30 @@ The metaphor is not decoration — it is the project's organizing principle:
 ---
 
 <!-- ============================================================
-     SECTION 3 · 学术归属 / Provenance (框中框)
+     SECTION 3 · 学术归属
      ============================================================ -->
 <table>
-<tr>
-<td>
+<tr><td>
 
 > ### ⟁ Academic Attribution
 >
-> <font color="#3F5D3A">**This skill is an engineering port of the paper EmbodiSkill, not an independent original method.**</font>
+> <b>This skill is an engineering port of the paper EmbodiSkill, not an independent original method.</b>
 >
 > The core methodology — the four-type reflection framework, the `S = (S_body, S_app)` revision structure, the classification logic — is by Ju et al. (2026, arXiv:2605.10332).
 >
 > This repository's engineering contributions are detailed in [`SKILL.md - Academic Attribution`](./SKILL.md#-academic-attribution).
 >
-> <font color="#3F5D3A">**By using this skill you agree**</font>: any academic or commercial use that cites this skill must also cite the original paper.
+> <b>By using this skill you agree</b>: any academic or commercial use that cites this skill must also cite the original paper.
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 ---
 
 <!-- ============================================================
-     SECTION 4 · 工作机制 / Mechanism
+     SECTION 4 · 工作机制
      ============================================================ -->
-## <img src="https://img.shields.io/badge/⟐-How%20It%20Works-3F5D3A?style=for-the-badge&logoColor=3F5D3A" alt="How It Works" height="28"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgSG93IEl0IFdvcmtzPC90ZXh0Pgo8L3N2Zz4=" alt="How It Works" height="40"/>
 
 After a **procedural task** finishes — one that applied a named skill, method, or multi-step procedure whose outcome depends on intermediate steps — this skill forces the agent to classify what happened into one of **four types** and produce a targeted, non-destructive revision of the underlying skill.
 
@@ -184,33 +147,33 @@ After a **procedural task** finishes — one that applied a named skill, method,
 <th width="22%">Modifies</th>
 </tr>
 <tr>
-<td><span style="color:#3F5D3A"><b>🔍 Discovery</b></span></td>
+<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPvCflI0gIERpc2NvdmVyeSDlj5HnjrA8L3RleHQ+Cjwvc3ZnPg==" alt="Discovery" height="28"/></td>
 <td>Success + new capability the skill doesn't cover</td>
 <td>Record new skill seed</td>
 <td><code>S_body</code> (append)</td>
 </tr>
 <tr>
-<td><span style="color:#A3541E"><b>⚙️ Optimization</b></span></td>
+<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjQTM1NDFFIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNBMzU0MUUiPuKame+4jyAgT3B0aW1pemF0aW9uIOS8mOWMljwvdGV4dD4KPC9zdmc+" alt="Optimization" height="28"/></td>
 <td>Success + an existing paragraph has a better form</td>
 <td>Replace or complete the targeted paragraph</td>
 <td><code>S_body</code> (replace / complete)</td>
 </tr>
 <tr>
-<td><span style="color:#8B2C1F"><b>⚠️ SkillDefect</b></span></td>
+<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjOEIyQzFGIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiM4QjJDMUYiPuKaoO+4jyAgU2tpbGxEZWZlY3Qg5oqA6IO957y66Zm3PC90ZXh0Pgo8L3N2Zz4=" alt="SkillDefect" height="28"/></td>
 <td>Failure + the paragraph is wrong, incomplete, or underspecified</td>
 <td>Replace or complete the targeted paragraph</td>
 <td><code>S_body</code> (replace / complete)</td>
 </tr>
 <tr>
-<td><span style="color:#4A4A4A"><b>⏸ ExecutionLapse</b></span></td>
+<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjNEE0QTRBIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiM0QTRBNEEiPuKPuCAgRXhlY3V0aW9uTGFwc2Ug5omn6KGM5YGP5beuPC90ZXh0Pgo8L3N2Zz4=" alt="ExecutionLapse" height="28"/></td>
 <td>Failure + paragraph is valid but the agent did not follow it</td>
 <td>Append a reminder to the execution appendix</td>
 <td><code>S_app</code> <b>only</b> — never <code>S_body</code></td>
 </tr>
 </table>
 
-> ### <font color="#3F5D3A">⟐</font> The One-Question Test
->
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMjUiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAzMjUgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgVGhlIE9uZS1RdWVzdGlvbiBUZXN0PC90ZXh0Pgo8L3N2Zz4=" alt="The One-Question Test" height="40"/>
+
 > *"If the agent had followed the paragraph to the letter, would the task have succeeded?"*
 >
 > * Yes → **ExecutionLapse**
@@ -221,132 +184,42 @@ After a **procedural task** finishes — one that applied a named skill, method,
 ---
 
 <!-- ============================================================
-     SECTION 5 · 与 hermes-agent 的差异 / Differentiation
+     SECTION 5 · 与 hermes-agent 的差异
      ============================================================ -->
-## <font color="#3F5D3A">✦</font> Differentiation from hermes-agent
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0ODEiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCA0ODEgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKcpiAgRGlmZmVyZW50aWF0aW9uIGZyb20gaGVybWVzLWFnZW50PC90ZXh0Pgo8L3N2Zz4=" alt="Differentiation from hermes-agent" height="40"/>
 
 > *Common question: how does this differ from hermes-agent?*
 > *Short answer: **they are not competitors** — they target different users and different needs.*
 
 ### 5.1 Jobs to be Done
 
-<table>
-<tr>
-<th width="50%">丰容 / Skill Enrichment</th>
-<th width="50%">hermes-agent</th>
-</tr>
-<tr>
-<td valign="top">
-
-When one of my Claude Code skills underperforms in some scenarios, I want to **precisely identify and surgically fix** the specific bad paragraph — not rewrite the whole skill — so I keep what's already correct and avoid the side effects of wholesale rewrites.
-
-</td>
-<td valign="top">
-
-When I want a **24×7, cross-platform, remembering, learning-from-experience** personal AI assistant, I don't want to assemble memory systems, schedulers, message gateways, and skill frameworks myself — I want an out-of-the-box system that grows with me over the long term.
-
-</td>
-</tr>
-</table>
+| 丰容 / Skill Enrichment | hermes-agent |
+|---|---|
+| When one of my Claude Code skills underperforms in some scenarios, I want to **precisely identify and surgically fix** the specific bad paragraph — not rewrite the whole skill — so I keep what's already correct and avoid the side effects of wholesale rewrites. | When I want a **24×7, cross-platform, remembering, learning-from-experience** personal AI assistant, I don't want to assemble memory systems, schedulers, message gateways, and skill frameworks myself — I want an out-of-the-box system that grows with me over the long term. |
 
 ### 5.2 Need hierarchy
 
-<table>
-<tr>
-<th width="20%">Need layer</th>
-<th width="40%">丰容</th>
-<th width="40%">hermes-agent</th>
-</tr>
-<tr>
-<td><b>Functional</b></td>
-<td>Paragraph-level targeted revision + 4-type classification</td>
-<td>Multi-platform + multi-backend + automatic skill creation</td>
-</tr>
-<tr>
-<td><b>Reliability</b></td>
-<td>Prevents "bad edits" (guards against 3 documented systematic problems)</td>
-<td>Prevents "data loss" (auto-archive + FTS5 search)</td>
-</tr>
-<tr>
-<td><b>Usability</b></td>
-<td>Available as soon as Claude Code's description trigger fires</td>
-<td>Available from terminal + Telegram + Discord + …</td>
-</tr>
-<tr>
-<td><b>Growth</b></td>
-<td>A single skill paragraph gets more accurate over time</td>
-<td>The whole agent becomes more attuned to the user</td>
-</tr>
-<tr>
-<td><b>Pain eliminated</b></td>
-<td>"My skill won't change / gets worse when I edit it"</td>
-<td>"My agent doesn't remember / I can't find past work"</td>
-</tr>
-<tr>
-<td><b>Investment style</b></td>
-<td>One-shot precision work</td>
-<td>Cumulative long-term investment</td>
-</tr>
-</table>
+| Need layer | 丰容 | hermes-agent |
+|---|---|---|
+| Functional | Paragraph-level targeted revision + 4-type classification | Multi-platform + multi-backend + automatic skill creation |
+| Reliability | Prevents "bad edits" (guards against 3 documented systematic problems) | Prevents "data loss" (auto-archive + FTS5 search) |
+| Usability | Available as soon as Claude Code's description trigger fires | Available from terminal + Telegram + Discord + … |
+| Growth | A single skill paragraph gets more accurate over time | The whole agent becomes more attuned to the user |
+| Pain eliminated | "My skill won't change / gets worse when I edit it" | "My agent doesn't remember / I can't find past work" |
+| Investment style | One-shot precision work | Cumulative long-term investment |
 
 ### 5.3 Need-solution matrix
 
-<table>
-<tr>
-<th>User need</th>
-<th width="22%">丰容</th>
-<th width="22%">hermes-agent</th>
-<th width="30%">Solved better by</th>
-</tr>
-<tr>
-<td>"Which paragraph of my skill is broken?"</td>
-<td align="center">✅ explicit + paragraph-level</td>
-<td align="center">⚠️ LLM judgment</td>
-<td align="center"><b>丰容</b></td>
-</tr>
-<tr>
-<td>"I want an AI I can talk to from anywhere"</td>
-<td align="center">❌ Claude Code only</td>
-<td align="center">✅ CLI + Telegram + Discord + …</td>
-<td align="center"><b>hermes-agent</b></td>
-</tr>
-<tr>
-<td>"I want my agent to remember me across sessions"</td>
-<td align="center">❌ no auto-mechanism</td>
-<td align="center">✅ FTS5 + LLM summaries</td>
-<td align="center"><b>hermes-agent</b></td>
-</tr>
-<tr>
-<td>"I want a skill to appear without me writing it"</td>
-<td align="center">❌ does not create</td>
-<td align="center">✅ Curator distills</td>
-<td align="center"><b>hermes-agent</b></td>
-</tr>
-<tr>
-<td>"I want strict guarantees that skills won't be corrupted"</td>
-<td align="center">✅ 4-type forced + <code>S_app</code> isolation</td>
-<td align="center">⚠️ no explicit classification</td>
-<td align="center"><b>丰容</b></td>
-</tr>
-<tr>
-<td>"I want stale skills auto-archived"</td>
-<td align="center">❌ manual</td>
-<td align="center">✅ <code>stale_after_days</code></td>
-<td align="center"><b>hermes-agent</b></td>
-</tr>
-<tr>
-<td>"I'm already in Claude Code and won't install new things"</td>
-<td align="center">✅ one-skill install</td>
-<td align="center">❌ full agent system install</td>
-<td align="center"><b>丰容</b></td>
-</tr>
-<tr>
-<td>"I want my agent to grow more attuned to me over time"</td>
-<td align="center">❌ single-turn precision</td>
-<td align="center">✅ closed-loop learning + persistence</td>
-<td align="center"><b>hermes-agent</b></td>
-</tr>
-</table>
+| User need | 丰容 | hermes-agent | Solved better by |
+|---|---|---|---|
+| "Which paragraph of my skill is broken?" | ✅ explicit + paragraph-level | ⚠️ LLM judgment | 丰容 |
+| "I want an AI I can talk to from anywhere" | ❌ Claude Code only | ✅ CLI + Telegram + Discord + … | hermes-agent |
+| "I want my agent to remember me across sessions" | ❌ no auto-mechanism | ✅ FTS5 + LLM summaries | hermes-agent |
+| "I want a skill to appear without me writing it" | ❌ does not create | ✅ Curator distills | hermes-agent |
+| "I want strict guarantees that skills won't be corrupted" | ✅ 4-type forced + `S_app` isolation | ⚠️ no explicit classification | 丰容 |
+| "I want stale skills auto-archived" | ❌ manual | ✅ `stale_after_days` | hermes-agent |
+| "I'm already in Claude Code and won't install new things" | ✅ one-skill install | ❌ full agent system install | 丰容 |
+| "I want my agent to grow more attuned to me over time" | ❌ single-turn precision | ✅ closed-loop learning + persistence | hermes-agent |
 
 ### 5.4 Decision tree
 
@@ -367,9 +240,9 @@ Are you mainly a Claude Code user?
 ---
 
 <!-- ============================================================
-     SECTION 6 · 安装 / Installation
+     SECTION 6 · 安装
      ============================================================ -->
-## <font color="#3F5D3A">⟐</font> Installation
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgSW5zdGFsbGF0aW9uPC90ZXh0Pgo8L3N2Zz4=" alt="Installation" height="40"/>
 
 ```bash
 # Option 1 — Unzip the packaged .skill file
@@ -380,18 +253,14 @@ git clone https://github.com/z77orz/Skill-Enrichment.git \
     ~/.claude/skills/Skill-Enrichment
 ```
 
-<<<<<<< HEAD
-The skill is auto-discovered by Claude Code once placed under `~/.claude/skills/`.
-=======
 The skill is auto-discovered by Claude Code once placed under `~/.claude/skills/Skill-Enrichment/`.
->>>>>>> acd66be (refactor: rebrand to 丰容 / Skill Enrichment)
 
 ---
 
 <!-- ============================================================
-     SECTION 7 · 仓库结构 / Repository layout
+     SECTION 7 · 仓库结构
      ============================================================ -->
-## <font color="#3F5D3A">⟐</font> Repository Layout
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgUmVwb3NpdG9yeSBMYXlvdXQ8L3RleHQ+Cjwvc3ZnPg==" alt="Repository Layout" height="40"/>
 
 ```text
 Skill-Enrichment/
@@ -413,38 +282,17 @@ Skill-Enrichment/
 ---
 
 <!-- ============================================================
-     SECTION 8 · 验证 / Validation
+     SECTION 8 · 验证
      ============================================================ -->
-## <font color="#3F5D3A">✦</font> Validation
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKcpiAgVmFsaWRhdGlvbjwvdGV4dD4KPC9zdmc+" alt="Validation" height="40"/>
 
 The skill was validated against 4 benchmark evals.
 
-<table>
-<tr>
-<th align="left">Configuration</th>
-<th align="right">Pass rate</th>
-<th align="right">Time</th>
-<th align="right">Tokens</th>
-</tr>
-<tr>
-<td><b>With Skill</b></td>
-<td align="right"><b>100 %</b></td>
-<td align="right">62.3 s ± 12.3 s</td>
-<td align="right">73,525</td>
-</tr>
-<tr>
-<td>Without Skill</td>
-<td align="right">64 %</td>
-<td align="right">50.9 s ± 5.8 s</td>
-<td align="right">69,211</td>
-</tr>
-<tr>
-<td><b>Delta</b></td>
-<td align="right"><b>+0.36</b></td>
-<td align="right">+11.5 s</td>
-<td align="right">+4,314</td>
-</tr>
-</table>
+| Configuration | Pass rate | Time | Tokens |
+|---|---|---|---|
+| **With Skill** | **100 %** | 62.3 s ± 12.3 s | 73,525 |
+| Without Skill | 64 % | 50.9 s ± 5.8 s | 69,211 |
+| **Delta** | **+0.36** | +11.5 s | +4,314 |
 
 **Largest discriminator**: `SkillDefect` classification — baseline scored **25 %** (1/4) where with-skill scored **100 %** (4/4). Without the framework, agents tend to misclassify skill-content defects as execution lapses or produce vague patches.
 
@@ -453,9 +301,9 @@ To reproduce: see `~/.claude/skills/skill-aware-reflection-workspace/` (a siblin
 ---
 
 <!-- ============================================================
-     SECTION 9 · 引用 / Citation
+     SECTION 9 · 引用
      ============================================================ -->
-## <font color="#3F5D3A">⟐</font> Citation
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgQ2l0YXRpb248L3RleHQ+Cjwvc3ZnPg==" alt="Citation" height="40"/>
 
 If you use this skill in research or write a paper that benefits from the underlying framework, please cite the original EmbodiSkill paper (arXiv preprint, not yet peer-reviewed):
 
@@ -480,9 +328,9 @@ The arXiv ID is included in the in-text form because this is a preprint without 
 ---
 
 <!-- ============================================================
-     SECTION 10 · 许可 / License
+     SECTION 10 · 许可
      ============================================================ -->
-## <font color="#3F5D3A">⟐</font> License
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgTGljZW5zZTwvdGV4dD4KPC9zdmc+" alt="License" height="40"/>
 
 `MIT` — see [`LICENSE`](./LICENSE). The MIT notice covers this engineering port; the underlying methodology remains that of the EmbodiSkill authors.
 
@@ -499,7 +347,7 @@ The arXiv ID is included in the in-text form because this is a preprint without 
 
 <br/>
 
-<font color="#3F5D3A"><b>⟐ Repository activity</b></font>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTkiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyOTkgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgUmVwb3NpdG9yeSBhY3Rpdml0eTwvdGV4dD4KPC9zdmc+" alt="Repository activity" height="32"/>
 
 <br/>
 
@@ -511,7 +359,7 @@ The arXiv ID is included in the in-text form because this is a preprint without 
 
 <div align="center">
 
-<sub><font color="#3F5D3A">✦</font> This README follows the <i>Field Guide</i> aesthetic — a tribute to the 19th-century practice of natural-history field guides. <font color="#3F5D3A">✦</font></sub>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEwMCAxMDAiPgogIDx0ZXh0IHg9IjUwIiB5PSI3NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9InNlcmlmIiBmb250LXNpemU9Ijg2IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0Y1RDNBIj7inKY8L3RleHQ+Cjwvc3ZnPg==" alt="" height="24"/> This README follows the <i>Field Guide</i> aesthetic — a tribute to the 19th-century practice of natural-history field guides. <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEwMCAxMDAiPgogIDx0ZXh0IHg9IjUwIiB5PSI3NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9InNlcmlmIiBmb250LXNpemU9Ijg2IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0Y1RDNBIj7inKY8L3RleHQ+Cjwvc3ZnPg==" alt="" height="24"/>
 
 <br/>
 

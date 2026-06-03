@@ -11,11 +11,7 @@
      ============================================================ -->
 <div align="center">
 
-# ✦ <img src="https://img.shields.io/badge/丰容-Skill%20Enrichment-A87C2C?style=for-the-badge&logoColor=A87C2C" alt="丰容" height="42"/> ✦
-
-### *园丁手记:Claude Code 程序性 skill 的成熟化指南*
-
-*formerly **Skill-Aware Reflection** — EmbodiSkill 框架在 Claude Code 上的工程化移植 (Ju et al., 2026, arXiv:2605.10332)*
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MjAiIGhlaWdodD0iMTEwIiB2aWV3Qm94PSIwIDAgNzIwIDExMCI+CiAgPHRleHQgeD0iMzYwLjAiIHk9Ijg1LjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSInTm90byBTZXJpZiBTQycsJ0ZyYXVuY2VzJywnU291cmNlIEhhbiBTZXJpZiBTQycsJ1RpbWVzIE5ldyBSb21hbicsc2VyaWYiIGZvbnQtc2l6ZT0iNjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNBODdDMkMiIHN0cm9rZT0iIzFGMUIxNiIgc3Ryb2tlLXdpZHRoPSIwLjYiIGxldHRlci1zcGFjaW5nPSIyIj7il4Yg5Liw5a65IChTa2lsbCBFbnJpY2htZW50KSDil4Y8L3RleHQ+Cjwvc3ZnPg==" alt="丰容 Skill Enrichment" height="64"/>
 
 <br/>
 
@@ -34,20 +30,20 @@
 <tr>
 <td align="center" width="33%">
 
-<font color="#3F5D3A"><b>⟁ 被丰容者</b></font>  
-<font color="#1F1B16"><i>程序性 skill</i></font>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAxODAgMzIiPgogIDx0ZXh0IHg9IjkwLjAiIHk9IjI0Ljk2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfgSAg6KKr5Liw5a656ICFICDin4E8L3RleHQ+Cjwvc3ZnPg==" alt="被丰容者" height="32"/><br/>
+<i>程序性 skill</i>
 
 </td>
 <td align="center" width="33%">
 
-<font color="#3F5D3A"><b>⟐ 核心营养</b></font>  
-<font color="#1F1B16"><i>任务轨迹</i></font>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAxODAgMzIiPgogIDx0ZXh0IHg9IjkwLjAiIHk9IjI0Ljk2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfgSAg5qC45b+D6JCl5YW7ICDin4E8L3RleHQ+Cjwvc3ZnPg==" alt="核心营养" height="32"/><br/>
+<i>任务轨迹</i>
 
 </td>
 <td align="center" width="33%">
 
-<font color="#3F5D3A"><b>⟁ 终局</b></font>  
-<font color="#1F1B16"><i>成熟化 · 0 → 1</i></font>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAxODAgMzIiPgogIDx0ZXh0IHg9IjkwLjAiIHk9IjI0Ljk2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfgSAg57uI5bGAICDin4E8L3RleHQ+Cjwvc3ZnPg==" alt="终局" height="32"/><br/>
+<i>成熟化 · 0 → 1</i>
 
 </td>
 </tr>
@@ -58,59 +54,32 @@
 ---
 
 <!-- ============================================================
-     SECTION 1 · 学名卡 / 物种介绍
+     SECTION 1 · 学名卡
      ============================================================ -->
-## <img src="https://img.shields.io/badge/⟐-学名卡-3F5D3A?style=for-the-badge&logoColor=3F5D3A" alt="学名卡" height="28"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDlrablkI3ljaE8L3RleHQ+Cjwvc3ZnPg==" alt="学名卡" height="40"/>
 
 <table>
-<tr>
-<th align="left" width="22%">字段</th>
-<th align="left">内容</th>
-</tr>
-<tr>
-<td><b>俗名</b></td>
-<td><b>丰容 / Skill Enrichment</b></td>
-</tr>
-<tr>
-<td><b>曾用名</b></td>
-<td><i>Skill-Aware Reflection</i>(原仓库 skill-aware-reflection)</td>
-</tr>
-<tr>
-<td><b>科属</b></td>
-<td>EmbodiSkill — <i>自演化具身智能体</i></td>
-</tr>
-<tr>
-<td><b>模式产地</b></td>
-<td>Ju et al., 2026 · arXiv:2605.10332v1 · <a href="https://arxiv.org/abs/2605.10332v1">链接</a></td>
-</tr>
-<tr>
-<td><b>栖息地</b></td>
-<td><code>~/.claude/skills/Skill-Enrichment/</code></td>
-</tr>
-<tr>
-<td><b>食性</b></td>
-<td>真实任务轨迹(即<b>核心营养</b>)</td>
-</tr>
-<tr>
-<td><b>饲养员</b></td>
-<td>agent 自身,在四类反思框架下作业</td>
-</tr>
-<tr>
-<td><b>保护级别</b></td>
-<td>
+<tr><th align="left" width="22%">字段</th><th align="left">内容</th></tr>
+<tr><td><b>俗名</b></td><td><b>丰容 / Skill Enrichment</b></td></tr>
+<tr><td><b>曾用名</b></td><td><i>Skill-Aware Reflection</i>(原仓库 skill-aware-reflection)</td></tr>
+<tr><td><b>科属</b></td><td>EmbodiSkill — <i>自演化具身智能体</i></td></tr>
+<tr><td><b>模式产地</b></td><td>Ju et al., 2026 · arXiv:2605.10332v1 · <a href="https://arxiv.org/abs/2605.10332v1">链接</a></td></tr>
+<tr><td><b>栖息地</b></td><td><code>~/.claude/skills/Skill-Enrichment/</code></td></tr>
+<tr><td><b>食性</b></td><td>真实任务轨迹(即<b>核心营养</b>)</td></tr>
+<tr><td><b>饲养员</b></td><td>agent 自身,在四类反思框架下作业</td></tr>
+<tr><td><b>保护级别</b></td><td>
 
 `MIT` — 开源 · `arXiv preprint` — 学术引用强制
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 ---
 
 <!-- ============================================================
-     SECTION 2 · 命名志 / 关于命名
+     SECTION 2 · 关于命名
      ============================================================ -->
-## <img src="https://img.shields.io/badge/✦-关于命名-3F5D3A?style=for-the-badge&logoColor=3F5D3A" alt="关于命名" height="28"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4pymICDlhbPkuo7lkb3lkI08L3RleHQ+Cjwvc3ZnPg==" alt="关于命名" height="40"/>
 
 > *在动物福利科学中,**环境丰容(Environmental Enrichment)** 是一种实践——为圈养动物提供多样化、具有生物学意义的环境刺激,满足其生理与心理需求,促进行为表达的自然化,减少刻板行为。*
 >
@@ -126,7 +95,7 @@
 
 这个比喻不是装饰,而是项目组织原则:
 
-> <font color="#3F5D3A">**没有轨迹,就没有丰容。**</font> 一段从未经历真实运行的 skill,永远长不大。
+> <b>没有轨迹,就没有丰容。</b> 一段从未经历真实运行的 skill,永远长不大。
 
 ### 名字里装着什么
 
@@ -142,29 +111,27 @@
      SECTION 3 · 学术来源声明
      ============================================================ -->
 <table>
-<tr>
-<td>
+<tr><td>
 
 > ### ⟁ 学术来源声明
 >
-> 本 skill <font color="#3F5D3A">**不是独立原创方法**</font>,而是论文 EmbodiSkill 的工程化移植。
+> 本 skill <b>不是独立原创方法</b>,而是论文 EmbodiSkill 的工程化移植。
 >
 > 核心方法论(四类反思、`S_body`/`S_app` 结构、分类逻辑)由论文作者 Ju et al. (2026, arXiv:2605.10332) 提出。
 >
 > 本仓库的工程化贡献见 [`SKILL.md - 学术来源声明`](./SKILL.md#-学术来源声明-attribution)。
 >
-> <font color="#3F5D3A">**使用本 skill 即视为同意**</font>:若在学术或商业场景中引用本 skill,需同时引用原论文。
+> <b>使用本 skill 即视为同意</b>:若在学术或商业场景中引用本 skill,需同时引用原论文。
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 ---
 
 <!-- ============================================================
-     SECTION 4 · 工作机制 / 四类反思
+     SECTION 4 · 工作机制
      ============================================================ -->
-## <img src="https://img.shields.io/badge/⟐-工作机制-3F5D3A?style=for-the-badge&logoColor=3F5D3A" alt="工作机制" height="28"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDlt6XkvZzmnLrliLY8L3RleHQ+Cjwvc3ZnPg==" alt="工作机制" height="40"/>
 
 每完成一个**程序性任务**后(指应用了某个具名 skill、流程或多步程序、其结果依赖中间步骤的任务),本技能强制 agent 把"刚才发生了什么"归入**四种类型**之一,并对底层 skill 做出**有针对性的、非破坏性的**修订——绝不整体重写。
 
@@ -180,33 +147,33 @@
 <th width="22%">修改对象</th>
 </tr>
 <tr>
-<td><span style="color:#3F5D3A"><b>🔍 Discovery 发现</b></span></td>
+<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPvCflI0gIERpc2NvdmVyeSDlj5HnjrA8L3RleHQ+Cjwvc3ZnPg==" alt="Discovery 发现" height="28"/></td>
 <td>成功 + 出现 skill 未覆盖的新能力</td>
 <td>记录新 skill 种子</td>
 <td><code>S_body</code>(追加)</td>
 </tr>
 <tr>
-<td><span style="color:#A3541E"><b>⚙️ Optimization 优化</b></span></td>
+<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjQTM1NDFFIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNBMzU0MUUiPuKame+4jyAgT3B0aW1pemF0aW9uIOS8mOWMljwvdGV4dD4KPC9zdmc+" alt="Optimization 优化" height="28"/></td>
 <td>成功 + 现有段落有更优形式</td>
 <td>替换或补全目标段落</td>
 <td><code>S_body</code>(替换/补全)</td>
 </tr>
 <tr>
-<td><span style="color:#8B2C1F"><b>⚠️ SkillDefect 技能缺陷</b></span></td>
+<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjOEIyQzFGIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiM4QjJDMUYiPuKaoO+4jyAgU2tpbGxEZWZlY3Qg5oqA6IO957y66Zm3PC90ZXh0Pgo8L3N2Zz4=" alt="SkillDefect 技能缺陷" height="28"/></td>
 <td>失败 + 段落本身错误、不完整或未明确</td>
 <td>替换或补全目标段落</td>
 <td><code>S_body</code>(替换/补全)</td>
 </tr>
 <tr>
-<td><span style="color:#4A4A4A"><b>⏸ ExecutionLapse 执行偏差</b></span></td>
+<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjNEE0QTRBIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiM0QTRBNEEiPuKPuCAgRXhlY3V0aW9uTGFwc2Ug5omn6KGM5YGP5beuPC90ZXh0Pgo8L3N2Zz4=" alt="ExecutionLapse 执行偏差" height="28"/></td>
 <td>失败 + 段落没问题,但 agent 没遵守</td>
 <td>往执行附录追加提醒</td>
 <td>仅 <code>S_app</code>——<b>绝不</b>碰 <code>S_body</code></td>
 </tr>
 </table>
 
-> ### <font color="#3F5D3A">⟐</font> 一问判定
->
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDkuIDpl67liKTlrpo8L3RleHQ+Cjwvc3ZnPg==" alt="一问判定" height="40"/>
+
 > *"如果 agent 严格按段落执行,任务会成功吗?"*
 >
 > * 会 → **ExecutionLapse**
@@ -219,130 +186,40 @@
 <!-- ============================================================
      SECTION 5 · 与 hermes-agent 的需求差异
      ============================================================ -->
-## <font color="#3F5D3A">✦</font> 与 hermes-agent 的需求差异
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MjgiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCA1MjggNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4pymICDkuI4gaGVybWVzLWFnZW50IOeahOmcgOaxguW3ruW8gjwvdGV4dD4KPC9zdmc+" alt="与 hermes-agent 的需求差异" height="40"/>
 
 > *回应常见疑问:丰容与 hermes-agent 有何不同?*
 > *答:**两者不是竞品**——面向不同用户、不同需求。*
 
 ### 5.1 需求对比(Jobs to be Done)
 
-<table>
-<tr>
-<th width="50%">丰容 / Skill Enrichment</th>
-<th width="50%">hermes-agent</th>
-</tr>
-<tr>
-<td valign="top">
-
-当我维护的 Claude Code skill 在某些场景下表现不好时,我希望能**精确识别并定向修复**具体出错的段落,不要让我重写整个 skill——这样我既保留 skill 里已经正确的部分,又不会引入重写带来的副作用。
-
-</td>
-<td valign="top">
-
-当我想要一个**全天候、跨平台、能记住我、能从经验中学习**的个人 AI 助理时,我不想自己拼凑记忆系统、调度系统、消息网关和 skill 框架——我想要一个开箱即用、长期自我成长的完整系统。
-
-</td>
-</tr>
-</table>
+| 丰容 / Skill Enrichment | hermes-agent |
+|---|---|
+| 当我维护的 Claude Code skill 在某些场景下表现不好时,我希望能**精确识别并定向修复**具体出错的段落,不要让我重写整个 skill——这样我既保留 skill 里已经正确的部分,又不会引入重写带来的副作用。 | 当我想要一个**全天候、跨平台、能记住我、能从经验中学习**的个人 AI 助理时,我不想自己拼凑记忆系统、调度系统、消息网关和 skill 框架——我想要一个开箱即用、长期自我成长的完整系统。 |
 
 ### 5.2 需求层次对比
 
-<table>
-<tr>
-<th width="20%">需求层</th>
-<th width="40%">丰容</th>
-<th width="40%">hermes-agent</th>
-</tr>
-<tr>
-<td><b>功能性需求</b></td>
-<td>段落级定向修订 + 4 类型分类</td>
-<td>多平台 + 多后端 + 自动 skill 创建</td>
-</tr>
-<tr>
-<td><b>可靠性需求</b></td>
-<td>严格防止"误改"(防 3 类系统性问题)</td>
-<td>严格防止"丢失"(自动归档 + FTS5 搜索)</td>
-</tr>
-<tr>
-<td><b>可用性需求</b></td>
-<td>在 Claude Code 描述触发即可用</td>
-<td>终端 + Telegram + Discord + … 都能用</td>
-</tr>
-<tr>
-<td><b>成长性需求</b></td>
-<td>单段 skill 越来越准</td>
-<td>agent 整体越来越懂你</td>
-</tr>
-<tr>
-<td><b>痛点消除</b></td>
-<td>"skill 改不动 / 改坏了"</td>
-<td>"agent 不会用 / 记不住"</td>
-</tr>
-<tr>
-<td><b>投入方式</b></td>
-<td>一次性精修</td>
-<td>累积式长期投入</td>
-</tr>
-</table>
+| 需求层 | 丰容 | hermes-agent |
+|---|---|---|
+| 功能性需求 | 段落级定向修订 + 4 类型分类 | 多平台 + 多后端 + 自动 skill 创建 |
+| 可靠性需求 | 严格防止"误改"(防 3 类系统性问题) | 严格防止"丢失"(自动归档 + FTS5 搜索) |
+| 可用性需求 | 在 Claude Code 描述触发即可用 | 终端 + Telegram + Discord + … 都能用 |
+| 成长性需求 | 单段 skill 越来越准 | agent 整体越来越懂你 |
+| 痛点消除 | "skill 改不动 / 改坏了" | "agent 不会用 / 记不住" |
+| 投入方式 | 一次性精修 | 累积式长期投入 |
 
 ### 5.3 需求解决对照矩阵
 
-<table>
-<tr>
-<th>用户需求</th>
-<th width="22%">丰容</th>
-<th width="22%">hermes-agent</th>
-<th width="30%">解决更好</th>
-</tr>
-<tr>
-<td>"我有一段 skill 跑几次效果不好,哪一段出问题?"</td>
-<td align="center">✅ 显式分类 + 段落级</td>
-<td align="center">⚠️ 推测依赖 LLM 自由判断</td>
-<td align="center"><b>丰容</b></td>
-</tr>
-<tr>
-<td>"我想要一个能跨平台对话的 AI"</td>
-<td align="center">❌ 仅 Claude Code</td>
-<td align="center">✅ CLI + Telegram + Discord + …</td>
-<td align="center"><b>hermes-agent</b></td>
-</tr>
-<tr>
-<td>"我想要 agent 跨会话记住我"</td>
-<td align="center">❌ 无自动机制</td>
-<td align="center">✅ FTS5 + LLM 摘要</td>
-<td align="center"><b>hermes-agent</b></td>
-</tr>
-<tr>
-<td>"我想要一个不写就有的 skill"</td>
-<td align="center">❌ 不创建</td>
-<td align="center">✅ Curator 提炼</td>
-<td align="center"><b>hermes-agent</b></td>
-</tr>
-<tr>
-<td>"我想要严格防止 skill 被改坏"</td>
-<td align="center">✅ 4 类型强制 + <code>S_app</code> 隔离</td>
-<td align="center">⚠️ 推测无显式分类</td>
-<td align="center"><b>丰容</b></td>
-</tr>
-<tr>
-<td>"我想要自动归档无用的 skill"</td>
-<td align="center">❌ 靠人工</td>
-<td align="center">✅ <code>stale_after_days</code></td>
-<td align="center"><b>hermes-agent</b></td>
-</tr>
-<tr>
-<td>"我已经在 Claude Code 里,不想装新东西"</td>
-<td align="center">✅ 装一个 skill 即用</td>
-<td align="center">❌ 装整个 agent 系统</td>
-<td align="center"><b>丰容</b></td>
-</tr>
-<tr>
-<td>"我想要 agent 长期越来越懂我"</td>
-<td align="center">❌ 单回合精确</td>
-<td align="center">✅ 闭环学习 + 持久化</td>
-<td align="center"><b>hermes-agent</b></td>
-</tr>
-</table>
+| 用户需求 | 丰容 | hermes-agent | 解决更好 |
+|---|---|---|---|
+| "我有一段 skill 跑几次效果不好,哪一段出问题?" | ✅ 显式分类 + 段落级 | ⚠️ 推测依赖 LLM 自由判断 | 丰容 |
+| "我想要一个能跨平台对话的 AI" | ❌ 仅 Claude Code | ✅ CLI + Telegram + Discord + … | hermes-agent |
+| "我想要 agent 跨会话记住我" | ❌ 无自动机制 | ✅ FTS5 + LLM 摘要 | hermes-agent |
+| "我想要一个不写就有的 skill" | ❌ 不创建 | ✅ Curator 提炼 | hermes-agent |
+| "我想要严格防止 skill 被改坏" | ✅ 4 类型强制 + `S_app` 隔离 | ⚠️ 推测无显式分类 | 丰容 |
+| "我想要自动归档无用的 skill" | ❌ 靠人工 | ✅ `stale_after_days` | hermes-agent |
+| "我已经在 Claude Code 里,不想装新东西" | ✅ 装一个 skill 即用 | ❌ 装整个 agent 系统 | 丰容 |
+| "我想要 agent 长期越来越懂我" | ❌ 单回合精确 | ✅ 闭环学习 + 持久化 | hermes-agent |
 
 ### 5.4 决策树
 
@@ -364,7 +241,7 @@
 <!-- ============================================================
      SECTION 6 · 与 EmbodiSkill 论文的对应
      ============================================================ -->
-## <font color="#3F5D3A">⟐</font> 与 EmbodiSkill 论文的对应
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDYiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCA1MDYgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDkuI4gRW1ib2RpU2tpbGwg6K665paH55qE5a+55bqUPC90ZXh0Pgo8L3N2Zz4=" alt="与 EmbodiSkill 论文的对应" height="40"/>
 
 > **重要**:本技能是论文 EmbodiSkill 的工程化移植,而非独立原创。核心方法论归属原论文。
 
@@ -388,7 +265,7 @@
 <!-- ============================================================
      SECTION 7 · 安装
      ============================================================ -->
-## <font color="#3F5D3A">⟐</font> 安装
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDlronoo4U8L3RleHQ+Cjwvc3ZnPg==" alt="安装" height="40"/>
 
 ```bash
 # 方式一:解压打包好的 .skill 文件
@@ -406,7 +283,7 @@ git clone https://github.com/z77orz/Skill-Enrichment.git \
 <!-- ============================================================
      SECTION 8 · 仓库结构
      ============================================================ -->
-## <font color="#3F5D3A">⟐</font> 仓库结构
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDku5PlupPnu5PmnoQ8L3RleHQ+Cjwvc3ZnPg==" alt="仓库结构" height="40"/>
 
 ```text
 Skill-Enrichment/
@@ -429,36 +306,15 @@ Skill-Enrichment/
 <!-- ============================================================
      SECTION 9 · 验证
      ============================================================ -->
-## <font color="#3F5D3A">✦</font> 验证
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4pymICDpqozor4E8L3RleHQ+Cjwvc3ZnPg==" alt="验证" height="40"/>
 
 针对 4 个 benchmark 评估运行。
 
-<table>
-<tr>
-<th align="left">配置</th>
-<th align="right">通过率</th>
-<th align="right">时间</th>
-<th align="right">Tokens</th>
-</tr>
-<tr>
-<td><b>使用 Skill</b></td>
-<td align="right"><b>100 %</b></td>
-<td align="right">62.3 s ± 12.3 s</td>
-<td align="right">73,525</td>
-</tr>
-<tr>
-<td>不使用 Skill</td>
-<td align="right">64 %</td>
-<td align="right">50.9 s ± 5.8 s</td>
-<td align="right">69,211</td>
-</tr>
-<tr>
-<td><b>增益(Delta)</b></td>
-<td align="right"><b>+0.36</b></td>
-<td align="right">+11.5 s</td>
-<td align="right">+4,314</td>
-</tr>
-</table>
+| 配置 | 通过率 | 时间 | Tokens |
+|---|---|---|---|
+| **使用 Skill** | **100 %** | 62.3 s ± 12.3 s | 73,525 |
+| 不使用 Skill | 64 % | 50.9 s ± 5.8 s | 69,211 |
+| **增益(Delta)** | **+0.36** | +11.5 s | +4,314 |
 
 **最大鉴别点**:`SkillDefect` 分类——基线 **25 %**(1/4),使用 skill 后 **100 %**(4/4)。没有这个框架时,agent 倾向于把"skill 内容错误"误判为"执行偏差",或给出笼统的"打补丁"。
 
@@ -469,7 +325,7 @@ Skill-Enrichment/
 <!-- ============================================================
      SECTION 10 · 引用
      ============================================================ -->
-## <font color="#3F5D3A">⟐</font> 引用
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDlvJXnlKg8L3RleHQ+Cjwvc3ZnPg==" alt="引用" height="40"/>
 
 如果在研究或撰写论文时使用了本 skill,请同时引用原始 EmbodiSkill 论文(arXiv 预印本,尚未经过同行评审):
 
@@ -496,7 +352,7 @@ Skill-Enrichment/
 <!-- ============================================================
      SECTION 11 · 许可
      ============================================================ -->
-## <font color="#3F5D3A">⟐</font> 许可
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDorrjlj688L3RleHQ+Cjwvc3ZnPg==" alt="许可" height="40"/>
 
 `MIT`——见 [`LICENSE`](./LICENSE)。MIT 许可适用于本工程化移植;底层方法论仍归 EmbodiSkill 论文作者所有。
 
@@ -513,7 +369,7 @@ Skill-Enrichment/
 
 <br/>
 
-<font color="#3F5D3A"><b>⟐ 仓库活跃度</b></font>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDku5PlupPmtLvot4PluqY8L3RleHQ+Cjwvc3ZnPg==" alt="仓库活跃度" height="32"/>
 
 <br/>
 
@@ -525,7 +381,7 @@ Skill-Enrichment/
 
 <div align="center">
 
-<sub><font color="#3F5D3A">✦</font> 本 README 采用 <i>Field Guide</i>(园丁手记)美学——向 19 世纪博物学家野外图鉴传统致敬。<font color="#3F5D3A">✦</font></sub>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEwMCAxMDAiPgogIDx0ZXh0IHg9IjUwIiB5PSI3NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9InNlcmlmIiBmb250LXNpemU9Ijg2IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0Y1RDNBIj7inKY8L3RleHQ+Cjwvc3ZnPg==" alt="" height="24"/> 本 README 采用 <i>Field Guide</i>(园丁手记)美学——向 19 世纪博物学家野外图鉴传统致敬。<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEwMCAxMDAiPgogIDx0ZXh0IHg9IjUwIiB5PSI3NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9InNlcmlmIiBmb250LXNpemU9Ijg2IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0Y1RDNBIj7inKY8L3RleHQ+Cjwvc3ZnPg==" alt="" height="24"/>
 
 <br/>
 

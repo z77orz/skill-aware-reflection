@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=3F5D3A&center=false&vCenter=true&multiline=true&width=900&height=140&lines=%E5%9C%A8%E5%9C%88%E5%85%BB%E7%8E%AF%E5%A2%83%E9%87%8C%2C%E5%9B%AD%E4%B8%81%E7%9A%84%E6%89%8B%E8%89%BA%E6%98%AF%E4%B8%B0%E5%AE%B9%E3%80%82;%E5%9C%A8%20Claude%20Code%20%E9%87%8C%2C%E8%BF%99%E4%B8%AA%E5%9B%AD%E4%B8%81%E6%98%AF%20agent%2C%E8%A2%AB%E4%B8%B0%E5%AE%B9%E8%80%85%E6%98%AF%20skill%2C;%E8%80%8C%E4%BB%BB%E5%8A%A1%E8%BD%A8%E8%BF%B9%2C%E5%B0%B1%E6%98%AF%E9%82%A3%E4%B8%80%E9%A4%90%E3%80%82" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=2000&pause=300&color=3F5D3A&center=false&vCenter=true&multiline=true&width=900&height=140&repeat=false&lines=%E5%9C%A8%E5%9C%88%E5%85%BB%E7%8E%AF%E5%A2%83%E9%87%8C%2C%E5%9B%AD%E4%B8%81%E7%9A%84%E6%89%8B%E8%89%BA%E6%98%AF%E4%B8%B0%E5%AE%B9%E3%80%82;%E5%9C%A8%20Claude%20Code%20%E9%87%8C%2C%E8%BF%99%E4%B8%AA%E5%9B%AD%E4%B8%81%E6%98%AF%20agent%2C%E8%A2%AB%E4%B8%B0%E5%AE%B9%E8%80%85%E6%98%AF%20skill%2C;%E8%80%8C%E4%BB%BB%E5%8A%A1%E8%BD%A8%E8%BF%B9%2C%E5%B0%B1%E6%98%AF%E9%82%A3%E4%B8%80%E9%A4%90%E3%80%82" alt="Typing SVG"/>
 
 <br/>
 
@@ -84,7 +84,7 @@
 | 被丰容者 | 圈养动物 | 程序性 skill |
 | 丰容刺激 | 多样化环境 | 真实任务轨迹 |
 | 促进行为 | 自然行为展示 | 跨场景适用的程序性能力 |
-| 需避免 | 刻板行为(stereotypy) | 反复套用过时的 `b_i` |
+| 需避免 | 刻板行为(stereotypy) | 把同一个过时的做法,不加辨别地套到每个新任务上 |
 | 丰容执行者 | 动物园管理员(zookeeper) | agent(在四类反思框架下) |
 
 这个比喻不是装饰,而是项目组织原则:

@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=3F5D3A&center=false&vCenter=true&multiline=true&width=900&height=140&lines=In%20Claude%20Code%2C%20the%20agent%20is%20the%20keeper%2C%20the%20skill%20is%20the%20captive%3B;the%20trajectory%20is%20the%20nourishment%2C%20the%20meal;that%20makes%20the%20skill%20mature" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&duration=2000&pause=300&color=3F5D3A&center=false&vCenter=true&multiline=true&width=900&height=140&repeat=false&lines=In%20Claude%20Code%2C%20the%20agent%20is%20the%20keeper%2C%20the%20skill%20is%20the%20captive%3B;the%20trajectory%20is%20the%20nourishment%2C%20the%20meal;that%20makes%20the%20skill%20mature" alt="Typing SVG"/>
 
 <br/>
 
@@ -84,7 +84,7 @@
 | Subject of enrichment | Captive animal | Procedural skill |
 | Enriching stimulus | Diverse environment | Real task trajectories |
 | Target behavior | Natural behavior display | Cross-scenario procedural competence |
-| Behavior to avoid | Stereotypy (repetitive, purposeless) | Reapplying an outdated `b_i` to every new case |
+| Behavior to avoid | Stereotypy (repetitive, purposeless) | Force-fitting the same outdated fix to every new case |
 | Enricher | Zookeeper | Agent (under the reflection framework) |
 
 The metaphor is not decoration — it is the project's organizing principle:

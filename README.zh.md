@@ -4,16 +4,29 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=3F5D3A&text=&fontSize=0" width="100%" alt=""/>
+
 <!-- ============================================================
      HERO · 园丁手记封面
      ============================================================ -->
 <div align="center">
 
-# ✦ 丰容 (Skill Enrichment) ✦
+# ✦ <font color="#A87C2C">丰容</font> (Skill Enrichment) ✦
 
 ### *园丁手记:Claude Code 程序性 skill 的成熟化指南*
 
 *formerly **Skill-Aware Reflection** — EmbodiSkill 框架在 Claude Code 上的工程化移植 (Ju et al., 2026, arXiv:2605.10332)*
+
+<br/>
+
+<a href="https://arxiv.org/abs/2605.10332v1"><img src="https://img.shields.io/badge/MIT-开源-3F5D3A?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="MIT"/></a>
+<a href="https://www.anthropic.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-技能-A3541E?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/></a>
+<a href="https://arxiv.org/abs/2605.10332v1"><img src="https://img.shields.io/badge/EmbodiSkill-arXiv-3F5D3A?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"/></a>
+<a href="./CITATION.cff"><img src="https://img.shields.io/badge/Cite-CFF-A87C2C?style=flat-square" alt="Cite"/></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3F5D3A&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%E5%9C%A8+Claude+Code+%E9%87%8C%EF%BC%8Cagent+%E6%98%AF%E5%9B%AD%E5%8C%BB%EF%BC%8Cskill+%E6%98%AF%E8%A2%AB%E5%9B%AD%E5%AE%B9%E8%80%85%EF%BC%9C;%E4%BB%BB%E5%8A%A1%E8%BD%A8%E8%BF%B9%E6%98%AF%E8%90%A5%E5%85%BB%EF%BC%8C%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%AE%83;skill+%E6%88%90%E7%86%9F%E7%9A%84%E4%B8%80%E9%A4%90" alt="Typing SVG"/>
 
 <br/>
 
@@ -496,6 +509,21 @@ Skill-Enrichment/
 `MIT`——见 [`LICENSE`](./LICENSE)。MIT 许可适用于本工程化移植;底层方法论仍归 EmbodiSkill 论文作者所有。
 
 <br/>
+
+---
+
+<!-- ============================================================
+     SECTION 12 · 仓库统计
+     ============================================================ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=3F5D3A&text=&fontSize=0" width="100%" alt=""/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=z77orz&repo=Skill-Enrichment&show_icons=true&theme=default&hide_rank=true&include_all_commits=true&count_private=true&bg_color=FAF7F0&title_color=3F5D3A&icon_color=A3541E&text_color=1F1B16" alt="仓库统计" width="48%"/>
+
+</div>
 
 ---
 

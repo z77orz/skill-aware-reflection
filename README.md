@@ -248,7 +248,7 @@ The skill was validated against 4 benchmark evals.
 
 **Largest discriminator**: `SkillDefect` classification — baseline scored **25 %** (1/4) where with-skill scored **100 %** (4/4). Without the framework, agents tend to misclassify skill-content defects as execution lapses or produce vague patches.
 
-To reproduce: see `~/.claude/skills/skill-aware-reflection-workspace/` (a sibling dev workspace that preserves the original project name for benchmark-result continuity) for the `grade.py` and `aggregate_benchmark.py` scripts.
+To reproduce, run the 4 standard-format prompts in [`evals/evals.json`](./evals/evals.json) with and without the skill installed.
 
 ---
 
@@ -272,7 +272,7 @@ If you use this skill in research or write a paper that benefits from the underl
 * Parenthetical: `(Ju et al., 2026, arXiv:2605.10332)`
 * Narrative: `Ju et al. (2026, arXiv:2605.10332)`
 
-The arXiv ID is included in the in-text form because this is a preprint without a journal DOI; the ID is the only permanent identifier.
+(The arXiv ID is the permanent identifier; no journal DOI exists yet.)
 
 ---
 

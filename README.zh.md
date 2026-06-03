@@ -267,7 +267,7 @@ Skill-Enrichment/
 
 **最大鉴别点**:`SkillDefect` 分类——基线 **25 %**(1/4),使用 skill 后 **100 %**(4/4)。没有这个框架时,agent 倾向于把"skill 内容错误"误判为"执行偏差",或给出笼统的"打补丁"。
 
-复现方式:参考本地开发环境的 `~/.claude/skills/skill-aware-reflection-workspace/` 目录(一个保留原项目名的兄弟开发工作区,用于维持 benchmark 结果的连续性),其中包含 `grade.py` 和 `aggregate_benchmark.py` 脚本。
+复现方式:对照运行 [`evals/evals.json`](./evals/evals.json) 中的 4 个标准格式 prompt(分别安装与不安装本 skill)。
 
 ---
 
@@ -291,7 +291,7 @@ Skill-Enrichment/
 * 括号式:`(Ju et al., 2026, arXiv:2605.10332)`
 * 叙事式:`Ju et al. (2026, arXiv:2605.10332)`
 
-由于这是预印本(无期刊 DOI),arXiv ID 是其唯一永久标识符,因此在正文引用中也需带上。
+(arXiv ID 为论文永久标识符,目前无期刊 DOI。)
 
 ---
 

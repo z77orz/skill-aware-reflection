@@ -11,7 +11,7 @@
      ============================================================ -->
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MjAiIGhlaWdodD0iMTEwIiB2aWV3Qm94PSIwIDAgNzIwIDExMCI+CiAgPHRleHQgeD0iMzYwLjAiIHk9Ijg1LjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSInTm90byBTZXJpZiBTQycsJ0ZyYXVuY2VzJywnU291cmNlIEhhbiBTZXJpZiBTQycsJ1RpbWVzIE5ldyBSb21hbicsc2VyaWYiIGZvbnQtc2l6ZT0iNjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNBODdDMkMiIHN0cm9rZT0iIzFGMUIxNiIgc3Ryb2tlLXdpZHRoPSIwLjYiIGxldHRlci1zcGFjaW5nPSIyIj7il4Yg5Liw5a65IChTa2lsbCBFbnJpY2htZW50KSDil4Y8L3RleHQ+Cjwvc3ZnPg==" alt="丰容 Skill Enrichment" height="64"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h1.svg" alt="丰容 Skill Enrichment" height="64"/>
 
 <br/>
 
@@ -30,19 +30,19 @@
 <tr>
 <td align="center" width="33%">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMTAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMTAgMzIiPgogIDx0ZXh0IHg9IjEwNS4wIiB5PSIyNC45NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidOb3RvIFNlcmlmIFNDJywnRnJhdW5jZXMnLHNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0Y1RDNBIj7in4EgIFN1YmplY3QgU3ViamVjdCAg4p+BPC90ZXh0Pgo8L3N2Zz4=" alt="Subject" height="32"/><br/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/card-en-1.svg" alt="Subject" height="32"/><br/>
 <i>Procedural Skill</i>
 
 </td>
 <td align="center" width="33%">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMjIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMjIgMzIiPgogIDx0ZXh0IHg9IjE2MS4wIiB5PSIyNC45NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidOb3RvIFNlcmlmIFNDJywnRnJhdW5jZXMnLHNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0Y1RDNBIj7in4EgIE5vdXJpc2htZW50IE5vdXJpc2htZW50ICDin4E8L3RleHQ+Cjwvc3ZnPg==" alt="Nourishment" height="32"/><br/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/card-en-2.svg" alt="Nourishment" height="32"/><br/>
 <i>Task Trajectory</i>
 
 </td>
 <td align="center" width="33%">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMTAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMTAgMzIiPgogIDx0ZXh0IHg9IjEwNS4wIiB5PSIyNC45NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidOb3RvIFNlcmlmIFNDJywnRnJhdW5jZXMnLHNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0Y1RDNBIj7in4EgIE91dGNvbWUgT3V0Y29tZSAg4p+BPC90ZXh0Pgo8L3N2Zz4=" alt="Outcome" height="32"/><br/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/card-en-3.svg" alt="Outcome" height="32"/><br/>
 <i>Maturation · 0 → 1</i>
 
 </td>
@@ -53,10 +53,7 @@
 
 ---
 
-<!-- ============================================================
-     SECTION 1 · 学名卡 / 物种介绍
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgU3BlY2ltZW4gQ2FyZDwvdGV4dD4KPC9zdmc+" alt="Specimen Card" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-en-specimen-card.svg" alt="Specimen Card" height="40"/>
 
 <table>
 <tr><th align="left" width="22%">Field</th><th align="left">Value</th></tr>
@@ -76,10 +73,7 @@
 
 ---
 
-<!-- ============================================================
-     SECTION 2 · 命名志
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKcpiAgT24gdGhlIE5hbWU8L3RleHQ+Cjwvc3ZnPg==" alt="On the Name" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-en-on-the-name.svg" alt="On the Name" height="40"/>
 
 > *In the animal-welfare sciences, **environmental enrichment** is the practice of providing captive animals with diverse, biologically meaningful stimuli — to satisfy their physiological and psychological needs, promote natural behavior, and reduce stereotypy.*
 >
@@ -107,9 +101,6 @@ The metaphor is not decoration — it is the project's organizing principle:
 
 ---
 
-<!-- ============================================================
-     SECTION 3 · 学术归属
-     ============================================================ -->
 <table>
 <tr><td>
 
@@ -128,10 +119,7 @@ The metaphor is not decoration — it is the project's organizing principle:
 
 ---
 
-<!-- ============================================================
-     SECTION 4 · 工作机制
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgSG93IEl0IFdvcmtzPC90ZXh0Pgo8L3N2Zz4=" alt="How It Works" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-en-how-it-works.svg" alt="How It Works" height="40"/>
 
 After a **procedural task** finishes — one that applied a named skill, method, or multi-step procedure whose outcome depends on intermediate steps — this skill forces the agent to classify what happened into one of **four types** and produce a targeted, non-destructive revision of the underlying skill.
 
@@ -147,32 +135,32 @@ After a **procedural task** finishes — one that applied a named skill, method,
 <th width="22%">Modifies</th>
 </tr>
 <tr>
-<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPvCflI0gIERpc2NvdmVyeSDlj5HnjrA8L3RleHQ+Cjwvc3ZnPg==" alt="Discovery" height="28"/></td>
+<td><img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/chip-discovery.svg" alt="Discovery 发现" height="28"/></td>
 <td>Success + new capability the skill doesn't cover</td>
 <td>Record new skill seed</td>
 <td><code>S_body</code> (append)</td>
 </tr>
 <tr>
-<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjQTM1NDFFIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNBMzU0MUUiPuKame+4jyAgT3B0aW1pemF0aW9uIOS8mOWMljwvdGV4dD4KPC9zdmc+" alt="Optimization" height="28"/></td>
+<td><img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/chip-optimization.svg" alt="Optimization 优化" height="28"/></td>
 <td>Success + an existing paragraph has a better form</td>
 <td>Replace or complete the targeted paragraph</td>
 <td><code>S_body</code> (replace / complete)</td>
 </tr>
 <tr>
-<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjOEIyQzFGIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiM4QjJDMUYiPuKaoO+4jyAgU2tpbGxEZWZlY3Qg5oqA6IO957y66Zm3PC90ZXh0Pgo8L3N2Zz4=" alt="SkillDefect" height="28"/></td>
+<td><img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/chip-skilldefect.svg" alt="SkillDefect 技能缺陷" height="28"/></td>
 <td>Failure + the paragraph is wrong, incomplete, or underspecified</td>
 <td>Replace or complete the targeted paragraph</td>
 <td><code>S_body</code> (replace / complete)</td>
 </tr>
 <tr>
-<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjNEE0QTRBIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiM0QTRBNEEiPuKPuCAgRXhlY3V0aW9uTGFwc2Ug5omn6KGM5YGP5beuPC90ZXh0Pgo8L3N2Zz4=" alt="ExecutionLapse" height="28"/></td>
+<td><img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/chip-executionlapse.svg" alt="ExecutionLapse 执行偏差" height="28"/></td>
 <td>Failure + paragraph is valid but the agent did not follow it</td>
 <td>Append a reminder to the execution appendix</td>
 <td><code>S_app</code> <b>only</b> — never <code>S_body</code></td>
 </tr>
 </table>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMjUiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAzMjUgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgVGhlIE9uZS1RdWVzdGlvbiBUZXN0PC90ZXh0Pgo8L3N2Zz4=" alt="The One-Question Test" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-en-one-question-test.svg" alt="The One-Question Test" height="40"/>
 
 > *"If the agent had followed the paragraph to the letter, would the task have succeeded?"*
 >
@@ -183,10 +171,7 @@ After a **procedural task** finishes — one that applied a named skill, method,
 
 ---
 
-<!-- ============================================================
-     SECTION 5 · 与 hermes-agent 的差异
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0ODEiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCA0ODEgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKcpiAgRGlmZmVyZW50aWF0aW9uIGZyb20gaGVybWVzLWFnZW50PC90ZXh0Pgo8L3N2Zz4=" alt="Differentiation from hermes-agent" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-en-differentiation-hermes.svg" alt="Differentiation" height="40"/>
 
 > *Common question: how does this differ from hermes-agent?*
 > *Short answer: **they are not competitors** — they target different users and different needs.*
@@ -239,10 +224,7 @@ Are you mainly a Claude Code user?
 
 ---
 
-<!-- ============================================================
-     SECTION 6 · 安装
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgSW5zdGFsbGF0aW9uPC90ZXh0Pgo8L3N2Zz4=" alt="Installation" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-en-installation.svg" alt="Installation" height="40"/>
 
 ```bash
 # Option 1 — Unzip the packaged .skill file
@@ -257,10 +239,7 @@ The skill is auto-discovered by Claude Code once placed under `~/.claude/skills/
 
 ---
 
-<!-- ============================================================
-     SECTION 7 · 仓库结构
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgUmVwb3NpdG9yeSBMYXlvdXQ8L3RleHQ+Cjwvc3ZnPg==" alt="Repository Layout" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-en-repository-layout.svg" alt="Repository Layout" height="40"/>
 
 ```text
 Skill-Enrichment/
@@ -273,6 +252,7 @@ Skill-Enrichment/
 │   ├── pressure-scenarios.md
 │   ├── baseline-failures.md
 │   └── verification.md
+├── assets/                   # Field Guide SVG assets (this README references them)
 ├── README.md                 # This file (English)
 ├── README.zh.md              # 中文版
 ├── CITATION.cff
@@ -281,10 +261,7 @@ Skill-Enrichment/
 
 ---
 
-<!-- ============================================================
-     SECTION 8 · 验证
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKcpiAgVmFsaWRhdGlvbjwvdGV4dD4KPC9zdmc+" alt="Validation" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-en-validation.svg" alt="Validation" height="40"/>
 
 The skill was validated against 4 benchmark evals.
 
@@ -300,10 +277,7 @@ To reproduce: see `~/.claude/skills/skill-aware-reflection-workspace/` (a siblin
 
 ---
 
-<!-- ============================================================
-     SECTION 9 · 引用
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgQ2l0YXRpb248L3RleHQ+Cjwvc3ZnPg==" alt="Citation" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-en-citation.svg" alt="Citation" height="40"/>
 
 If you use this skill in research or write a paper that benefits from the underlying framework, please cite the original EmbodiSkill paper (arXiv preprint, not yet peer-reviewed):
 
@@ -327,10 +301,7 @@ The arXiv ID is included in the in-text form because this is a preprint without 
 
 ---
 
-<!-- ============================================================
-     SECTION 10 · 许可
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgTGljZW5zZTwvdGV4dD4KPC9zdmc+" alt="License" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-en-license.svg" alt="License" height="40"/>
 
 `MIT` — see [`LICENSE`](./LICENSE). The MIT notice covers this engineering port; the underlying methodology remains that of the EmbodiSkill authors.
 
@@ -338,16 +309,13 @@ The arXiv ID is included in the in-text form because this is a preprint without 
 
 ---
 
-<!-- ============================================================
-     SECTION 11 · Repository activity
-     ============================================================ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=3F5D3A&text=&fontSize=0" width="100%" alt=""/>
 
 <br/>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTkiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyOTkgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ0ZyYXVuY2VzJywnU291cmNlIFNlcmlmIFBybycsc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfkCAgUmVwb3NpdG9yeSBhY3Rpdml0eTwvdGV4dD4KPC9zdmc+" alt="Repository activity" height="32"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-en-repository-activity.svg" alt="Repository activity" height="32"/>
 
 <br/>
 
@@ -359,7 +327,7 @@ The arXiv ID is included in the in-text form because this is a preprint without 
 
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEwMCAxMDAiPgogIDx0ZXh0IHg9IjUwIiB5PSI3NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9InNlcmlmIiBmb250LXNpemU9Ijg2IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0Y1RDNBIj7inKY8L3RleHQ+Cjwvc3ZnPg==" alt="" height="24"/> This README follows the <i>Field Guide</i> aesthetic — a tribute to the 19th-century practice of natural-history field guides. <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEwMCAxMDAiPgogIDx0ZXh0IHg9IjUwIiB5PSI3NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9InNlcmlmIiBmb250LXNpemU9Ijg2IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0Y1RDNBIj7inKY8L3RleHQ+Cjwvc3ZnPg==" alt="" height="24"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/footer-star-moss.svg" alt="✦" height="24"/> This README follows the <i>Field Guide</i> aesthetic — a tribute to the 19th-century practice of natural-history field guides. <img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/footer-star-moss.svg" alt="✦" height="24"/>
 
 <br/>
 

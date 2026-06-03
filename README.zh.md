@@ -11,7 +11,7 @@
      ============================================================ -->
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MjAiIGhlaWdodD0iMTEwIiB2aWV3Qm94PSIwIDAgNzIwIDExMCI+CiAgPHRleHQgeD0iMzYwLjAiIHk9Ijg1LjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSInTm90byBTZXJpZiBTQycsJ0ZyYXVuY2VzJywnU291cmNlIEhhbiBTZXJpZiBTQycsJ1RpbWVzIE5ldyBSb21hbicsc2VyaWYiIGZvbnQtc2l6ZT0iNjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNBODdDMkMiIHN0cm9rZT0iIzFGMUIxNiIgc3Ryb2tlLXdpZHRoPSIwLjYiIGxldHRlci1zcGFjaW5nPSIyIj7il4Yg5Liw5a65IChTa2lsbCBFbnJpY2htZW50KSDil4Y8L3RleHQ+Cjwvc3ZnPg==" alt="丰容 Skill Enrichment" height="64"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h1.svg" alt="丰容 Skill Enrichment" height="64"/>
 
 <br/>
 
@@ -30,19 +30,19 @@
 <tr>
 <td align="center" width="33%">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAxODAgMzIiPgogIDx0ZXh0IHg9IjkwLjAiIHk9IjI0Ljk2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfgSAg6KKr5Liw5a656ICFICDin4E8L3RleHQ+Cjwvc3ZnPg==" alt="被丰容者" height="32"/><br/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/card-zh-1.svg" alt="被丰容者" height="32"/><br/>
 <i>程序性 skill</i>
 
 </td>
 <td align="center" width="33%">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAxODAgMzIiPgogIDx0ZXh0IHg9IjkwLjAiIHk9IjI0Ljk2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfgSAg5qC45b+D6JCl5YW7ICDin4E8L3RleHQ+Cjwvc3ZnPg==" alt="核心营养" height="32"/><br/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/card-zh-2.svg" alt="核心营养" height="32"/><br/>
 <i>任务轨迹</i>
 
 </td>
 <td align="center" width="33%">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAxODAgMzIiPgogIDx0ZXh0IHg9IjkwLjAiIHk9IjI0Ljk2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPuKfgSAg57uI5bGAICDin4E8L3RleHQ+Cjwvc3ZnPg==" alt="终局" height="32"/><br/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/card-zh-3.svg" alt="终局" height="32"/><br/>
 <i>成熟化 · 0 → 1</i>
 
 </td>
@@ -53,10 +53,7 @@
 
 ---
 
-<!-- ============================================================
-     SECTION 1 · 学名卡
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDlrablkI3ljaE8L3RleHQ+Cjwvc3ZnPg==" alt="学名卡" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-zh-xue-ming-ka.svg" alt="学名卡" height="40"/>
 
 <table>
 <tr><th align="left" width="22%">字段</th><th align="left">内容</th></tr>
@@ -76,10 +73,7 @@
 
 ---
 
-<!-- ============================================================
-     SECTION 2 · 关于命名
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4pymICDlhbPkuo7lkb3lkI08L3RleHQ+Cjwvc3ZnPg==" alt="关于命名" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-zh-guan-yu-ming-ming.svg" alt="关于命名" height="40"/>
 
 > *在动物福利科学中,**环境丰容(Environmental Enrichment)** 是一种实践——为圈养动物提供多样化、具有生物学意义的环境刺激,满足其生理与心理需求,促进行为表达的自然化,减少刻板行为。*
 >
@@ -107,9 +101,6 @@
 
 ---
 
-<!-- ============================================================
-     SECTION 3 · 学术来源声明
-     ============================================================ -->
 <table>
 <tr><td>
 
@@ -128,10 +119,7 @@
 
 ---
 
-<!-- ============================================================
-     SECTION 4 · 工作机制
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDlt6XkvZzmnLrliLY8L3RleHQ+Cjwvc3ZnPg==" alt="工作机制" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-zh-gong-zuo-ji-zhi.svg" alt="工作机制" height="40"/>
 
 每完成一个**程序性任务**后(指应用了某个具名 skill、流程或多步程序、其结果依赖中间步骤的任务),本技能强制 agent 把"刚才发生了什么"归入**四种类型**之一,并对底层 skill 做出**有针对性的、非破坏性的**修订——绝不整体重写。
 
@@ -147,32 +135,32 @@
 <th width="22%">修改对象</th>
 </tr>
 <tr>
-<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzRjVEM0EiPvCflI0gIERpc2NvdmVyeSDlj5HnjrA8L3RleHQ+Cjwvc3ZnPg==" alt="Discovery 发现" height="28"/></td>
+<td><img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/chip-discovery.svg" alt="Discovery 发现" height="28"/></td>
 <td>成功 + 出现 skill 未覆盖的新能力</td>
 <td>记录新 skill 种子</td>
 <td><code>S_body</code>(追加)</td>
 </tr>
 <tr>
-<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjQTM1NDFFIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNBMzU0MUUiPuKame+4jyAgT3B0aW1pemF0aW9uIOS8mOWMljwvdGV4dD4KPC9zdmc+" alt="Optimization 优化" height="28"/></td>
+<td><img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/chip-optimization.svg" alt="Optimization 优化" height="28"/></td>
 <td>成功 + 现有段落有更优形式</td>
 <td>替换或补全目标段落</td>
 <td><code>S_body</code>(替换/补全)</td>
 </tr>
 <tr>
-<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjOEIyQzFGIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiM4QjJDMUYiPuKaoO+4jyAgU2tpbGxEZWZlY3Qg5oqA6IO957y66Zm3PC90ZXh0Pgo8L3N2Zz4=" alt="SkillDefect 技能缺陷" height="28"/></td>
+<td><img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/chip-skilldefect.svg" alt="SkillDefect 技能缺陷" height="28"/></td>
 <td>失败 + 段落本身错误、不完整或未明确</td>
 <td>替换或补全目标段落</td>
 <td><code>S_body</code>(替换/补全)</td>
 </tr>
 <tr>
-<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyMDAgMzIiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjMyIiBmaWxsPSIjNEE0QTRBIi8+CiAgPHRleHQgeD0iMTQiIHk9IjIzLjA0IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdGcmF1bmNlcycsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiM0QTRBNEEiPuKPuCAgRXhlY3V0aW9uTGFwc2Ug5omn6KGM5YGP5beuPC90ZXh0Pgo8L3N2Zz4=" alt="ExecutionLapse 执行偏差" height="28"/></td>
+<td><img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/chip-executionlapse.svg" alt="ExecutionLapse 执行偏差" height="28"/></td>
 <td>失败 + 段落没问题,但 agent 没遵守</td>
 <td>往执行附录追加提醒</td>
 <td>仅 <code>S_app</code>——<b>绝不</b>碰 <code>S_body</code></td>
 </tr>
 </table>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDkuIDpl67liKTlrpo8L3RleHQ+Cjwvc3ZnPg==" alt="一问判定" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-zh-yi-wen-pan-ding.svg" alt="一问判定" height="40"/>
 
 > *"如果 agent 严格按段落执行,任务会成功吗?"*
 >
@@ -183,10 +171,7 @@
 
 ---
 
-<!-- ============================================================
-     SECTION 5 · 与 hermes-agent 的需求差异
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MjgiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCA1MjggNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4pymICDkuI4gaGVybWVzLWFnZW50IOeahOmcgOaxguW3ruW8gjwvdGV4dD4KPC9zdmc+" alt="与 hermes-agent 的需求差异" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-zh-hermes-xu-qiu.svg" alt="与 hermes-agent 的需求差异" height="40"/>
 
 > *回应常见疑问:丰容与 hermes-agent 有何不同?*
 > *答:**两者不是竞品**——面向不同用户、不同需求。*
@@ -238,10 +223,7 @@
 
 ---
 
-<!-- ============================================================
-     SECTION 6 · 与 EmbodiSkill 论文的对应
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDYiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCA1MDYgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDkuI4gRW1ib2RpU2tpbGwg6K665paH55qE5a+55bqUPC90ZXh0Pgo8L3N2Zz4=" alt="与 EmbodiSkill 论文的对应" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-zh-embodi-dui-ying.svg" alt="与 EmbodiSkill 论文的对应" height="40"/>
 
 > **重要**:本技能是论文 EmbodiSkill 的工程化移植,而非独立原创。核心方法论归属原论文。
 
@@ -262,10 +244,7 @@
 
 ---
 
-<!-- ============================================================
-     SECTION 7 · 安装
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDlronoo4U8L3RleHQ+Cjwvc3ZnPg==" alt="安装" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-zh-an-zhuang.svg" alt="安装" height="40"/>
 
 ```bash
 # 方式一:解压打包好的 .skill 文件
@@ -280,10 +259,7 @@ git clone https://github.com/z77orz/Skill-Enrichment.git \
 
 ---
 
-<!-- ============================================================
-     SECTION 8 · 仓库结构
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDku5PlupPnu5PmnoQ8L3RleHQ+Cjwvc3ZnPg==" alt="仓库结构" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-zh-cang-ku-jie-gou.svg" alt="仓库结构" height="40"/>
 
 ```text
 Skill-Enrichment/
@@ -296,6 +272,7 @@ Skill-Enrichment/
 │   ├── pressure-scenarios.md
 │   ├── baseline-failures.md
 │   └── verification.md
+├── assets/                   # Field Guide SVG 资源
 ├── README.md                 # 英文版说明
 ├── README.zh.md              # 中文版说明(本文件)
 └── LICENSE
@@ -303,10 +280,7 @@ Skill-Enrichment/
 
 ---
 
-<!-- ============================================================
-     SECTION 9 · 验证
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4pymICDpqozor4E8L3RleHQ+Cjwvc3ZnPg==" alt="验证" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-zh-yan-zheng.svg" alt="验证" height="40"/>
 
 针对 4 个 benchmark 评估运行。
 
@@ -322,10 +296,7 @@ Skill-Enrichment/
 
 ---
 
-<!-- ============================================================
-     SECTION 10 · 引用
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDlvJXnlKg8L3RleHQ+Cjwvc3ZnPg==" alt="引用" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-zh-yin-yong.svg" alt="引用" height="40"/>
 
 如果在研究或撰写论文时使用了本 skill,请同时引用原始 EmbodiSkill 论文(arXiv 预印本,尚未经过同行评审):
 
@@ -349,10 +320,7 @@ Skill-Enrichment/
 
 ---
 
-<!-- ============================================================
-     SECTION 11 · 许可
-     ============================================================ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDorrjlj688L3RleHQ+Cjwvc3ZnPg==" alt="许可" height="40"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-zh-xu-ke.svg" alt="许可" height="40"/>
 
 `MIT`——见 [`LICENSE`](./LICENSE)。MIT 许可适用于本工程化移植;底层方法论仍归 EmbodiSkill 论文作者所有。
 
@@ -360,16 +328,13 @@ Skill-Enrichment/
 
 ---
 
-<!-- ============================================================
-     SECTION 12 · 仓库活跃度
-     ============================================================ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=3F5D3A&text=&fontSize=0" width="100%" alt=""/>
 
 <br/>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCAyODAgNDIiPgogIDxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjMwIiBmaWxsPSIjM0Y1RDNBIi8+CiAgPHRleHQgeD0iMjAiIHk9IjMyLjc2IiBmb250LWZhbWlseT0iJ05vdG8gU2VyaWYgU0MnLCdTb3VyY2UgSGFuIFNlcmlmIFNDJyxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzNGNUQzQSI+4p+QICDku5PlupPmtLvot4PluqY8L3RleHQ+Cjwvc3ZnPg==" alt="仓库活跃度" height="32"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/h2-zh-cang-ku-huo-yue-du.svg" alt="仓库活跃度" height="32"/>
 
 <br/>
 
@@ -381,7 +346,7 @@ Skill-Enrichment/
 
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEwMCAxMDAiPgogIDx0ZXh0IHg9IjUwIiB5PSI3NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9InNlcmlmIiBmb250LXNpemU9Ijg2IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0Y1RDNBIj7inKY8L3RleHQ+Cjwvc3ZnPg==" alt="" height="24"/> 本 README 采用 <i>Field Guide</i>(园丁手记)美学——向 19 世纪博物学家野外图鉴传统致敬。<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEwMCAxMDAiPgogIDx0ZXh0IHg9IjUwIiB5PSI3NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9InNlcmlmIiBmb250LXNpemU9Ijg2IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0Y1RDNBIj7inKY8L3RleHQ+Cjwvc3ZnPg==" alt="" height="24"/>
+<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/footer-star-moss.svg" alt="✦" height="24"/> 本 README 采用 <i>Field Guide</i>(园丁手记)美学——向 19 世纪博物学家野外图鉴传统致敬。<img src="https://raw.githubusercontent.com/z77orz/Skill-Enrichment/master/assets/footer-star-moss.svg" alt="✦" height="24"/>
 
 <br/>
 

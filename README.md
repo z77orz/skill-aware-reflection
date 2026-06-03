@@ -25,20 +25,20 @@
 <tr>
 <td align="center" width="33%">
 
-**⟁ Subject**  
-*Procedural Skill*
+<font color="#3F5D3A"><b>⟁ Subject</b></font>  
+<font color="#1F1B16"><i>Procedural Skill</i></font>
 
 </td>
 <td align="center" width="33%">
 
-**⟐ Nourishment**  
-*Task Trajectory*
+<font color="#3F5D3A"><b>⟐ Nourishment</b></font>  
+<font color="#1F1B16"><i>Task Trajectory</i></font>
 
 </td>
 <td align="center" width="33%">
 
-**⟁ Outcome**  
-*Maturation · 0 → 1*
+<font color="#3F5D3A"><b>⟁ Outcome</b></font>  
+<font color="#1F1B16"><i>Maturation · 0 → 1</i></font>
 
 </td>
 </tr>
@@ -59,7 +59,7 @@
 <!-- ============================================================
      SECTION 1 · 学名卡 / 物种介绍
      ============================================================ -->
-## ⟐ Specimen Card
+## <font color="#3F5D3A">⟐</font> Specimen Card
 
 <table>
 <tr>
@@ -109,7 +109,7 @@
 <!-- ============================================================
      SECTION 2 · 命名志 / Etymology
      ============================================================ -->
-## ✦ On the Name
+## <font color="#3F5D3A">✦</font> On the Name
 
 > *In the animal-welfare sciences, **environmental enrichment** is the practice of providing captive animals with diverse, biologically meaningful stimuli — to satisfy their physiological and psychological needs, promote natural behavior, and reduce stereotypy.*
 >
@@ -125,7 +125,7 @@
 
 The metaphor is not decoration — it is the project's organizing principle:
 
-> **No trajectory, no enrichment.** A skill that never sees a real run is a skill that never matures.
+> <font color="#3F5D3A">**No trajectory, no enrichment.**</font> A skill that never sees a real run is a skill that never matures.
 
 ### What is in a name?
 
@@ -146,13 +146,13 @@ The metaphor is not decoration — it is the project's organizing principle:
 
 > ### ⟁ Academic Attribution
 >
-> **This skill is an engineering port of the paper EmbodiSkill, not an independent original method.**
+> <font color="#3F5D3A">**This skill is an engineering port of the paper EmbodiSkill, not an independent original method.**</font>
 >
 > The core methodology — the four-type reflection framework, the `S = (S_body, S_app)` revision structure, the classification logic — is by Ju et al. (2026, arXiv:2605.10332).
 >
 > This repository's engineering contributions are detailed in [`SKILL.md - Academic Attribution`](./SKILL.md#-academic-attribution).
 >
-> **By using this skill you agree**: any academic or commercial use that cites this skill must also cite the original paper.
+> <font color="#3F5D3A">**By using this skill you agree**</font>: any academic or commercial use that cites this skill must also cite the original paper.
 
 </td>
 </tr>
@@ -163,7 +163,7 @@ The metaphor is not decoration — it is the project's organizing principle:
 <!-- ============================================================
      SECTION 4 · 工作机制 / Mechanism
      ============================================================ -->
-## ⟐ How It Works
+## <font color="#3F5D3A">⟐</font> How It Works
 
 After a **procedural task** finishes — one that applied a named skill, method, or multi-step procedure whose outcome depends on intermediate steps — this skill forces the agent to classify what happened into one of **four types** and produce a targeted, non-destructive revision of the underlying skill.
 
@@ -204,7 +204,7 @@ After a **procedural task** finishes — one that applied a named skill, method,
 </tr>
 </table>
 
-> ### ⟐ The One-Question Test
+> ### <font color="#3F5D3A">⟐</font> The One-Question Test
 >
 > *"If the agent had followed the paragraph to the letter, would the task have succeeded?"*
 >
@@ -218,7 +218,7 @@ After a **procedural task** finishes — one that applied a named skill, method,
 <!-- ============================================================
      SECTION 5 · 与 hermes-agent 的差异 / Differentiation
      ============================================================ -->
-## ✦ Differentiation from hermes-agent
+## <font color="#3F5D3A">✦</font> Differentiation from hermes-agent
 
 > *Common question: how does this differ from hermes-agent?*
 > *Short answer: **they are not competitors** — they target different users and different needs.*
@@ -364,7 +364,7 @@ Are you mainly a Claude Code user?
 <!-- ============================================================
      SECTION 6 · 安装 / Installation
      ============================================================ -->
-## ⟐ Installation
+## <font color="#3F5D3A">⟐</font> Installation
 
 ```bash
 # Option 1 — Unzip the packaged .skill file
@@ -386,7 +386,7 @@ The skill is auto-discovered by Claude Code once placed under `~/.claude/skills/
 <!-- ============================================================
      SECTION 7 · 仓库结构 / Repository layout
      ============================================================ -->
-## ⟐ Repository Layout
+## <font color="#3F5D3A">⟐</font> Repository Layout
 
 ```text
 Skill-Enrichment/
@@ -410,7 +410,7 @@ Skill-Enrichment/
 <!-- ============================================================
      SECTION 8 · 验证 / Validation
      ============================================================ -->
-## ✦ Validation
+## <font color="#3F5D3A">✦</font> Validation
 
 The skill was validated against 4 benchmark evals.
 
@@ -450,7 +450,7 @@ To reproduce: see `~/.claude/skills/skill-aware-reflection-workspace/` (a siblin
 <!-- ============================================================
      SECTION 9 · 引用 / Citation
      ============================================================ -->
-## ⟐ Citation
+## <font color="#3F5D3A">⟐</font> Citation
 
 If you use this skill in research or write a paper that benefits from the underlying framework, please cite the original EmbodiSkill paper (arXiv preprint, not yet peer-reviewed):
 
@@ -477,7 +477,7 @@ The arXiv ID is included in the in-text form because this is a preprint without 
 <!-- ============================================================
      SECTION 10 · 许可 / License
      ============================================================ -->
-## ⟐ License
+## <font color="#3F5D3A">⟐</font> License
 
 `MIT` — see [`LICENSE`](./LICENSE). The MIT notice covers this engineering port; the underlying methodology remains that of the EmbodiSkill authors.
 
@@ -487,7 +487,7 @@ The arXiv ID is included in the in-text form because this is a preprint without 
 
 <div align="center">
 
-<sub>✦ This README follows the *Field Guide* aesthetic — a tribute to the 19th-century practice of natural-history field guides. ✦</sub>
+<sub><font color="#3F5D3A">✦</font> This README follows the <i>Field Guide</i> aesthetic — a tribute to the 19th-century practice of natural-history field guides. <font color="#3F5D3A">✦</font></sub>
 
 <br/>
 

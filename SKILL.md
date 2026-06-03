@@ -29,7 +29,7 @@ description: Use when a procedural task has just finished — one that required 
 > }
 > ```
 >
-> **正文引用形式**:`Ju et al. (2026, arXiv:2605.10332)` —— 预印本无期刊 DOI,arXiv ID 是唯一永久标识符,必须带上。
+> **正文引用形式**:`Ju et al. (2026, arXiv:2605.10332)` (必须含 arXiv ID,因无期刊 DOI)。
 >
 > ### 本仓库的边界
 >
